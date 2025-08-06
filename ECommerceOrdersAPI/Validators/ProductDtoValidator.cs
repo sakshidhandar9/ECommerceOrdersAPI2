@@ -1,4 +1,5 @@
 ﻿using ECommerceOrdersAPI.DTOs;
+using FluentValidation;
 
 namespace ECommerceOrdersAPI.Validators
 {
