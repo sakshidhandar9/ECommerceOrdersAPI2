@@ -12,7 +12,7 @@ An ASP.NET Core Web API built to manage e-commerce orders efficiently. The proje
 - 🔐 Secure with basic authentication (optional)
 - 📄 Swagger/OpenAPI integration
 - 📁 Modular folder structure for easy scalability
-
+  
 ## 🧠 Technologies Used
 
 | Tech                | Description                         |
